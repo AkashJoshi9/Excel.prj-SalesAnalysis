@@ -11,3 +11,4 @@ Evaluate Sales Channels: Compare the performance of different sales channels to 
 Understand Customer Behavior: Analyze what products customers are buying together, how often they purchase, and how much they spend.
 
 Forecast Future Sales: Use historical data to predict potential sales in upcoming periods.
+//
