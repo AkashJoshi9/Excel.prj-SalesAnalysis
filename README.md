@@ -7,7 +7,9 @@ A eCommerce sales analysis project involves using the spreadsheet software to or
 • MS Excel   
 ![icons8-excel-500](https://github.com/user-attachments/assets/6bea4d92-83b8-4b84-9073-f3cacdec6475)
 
+# Report View  
 
+![Screenshot 2025-02-15 155611](https://github.com/user-attachments/assets/1b206efc-4dc6-401f-b395-f9aa8bc0d28d)
 
 
 
